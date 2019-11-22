@@ -1,0 +1,5 @@
+*.json
+*.csv
+venv
+.DS_Store
+.idea
